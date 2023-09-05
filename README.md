@@ -1,2 +1,9 @@
-# xplacebo-website-sekolah
-blog website berita sekolah smkn 1 gending
+# website-sekolah
+Latian SIJA SMKN 1 Punggelan
+
+
+===============================================
+
+Test 123
+
+==============================================
